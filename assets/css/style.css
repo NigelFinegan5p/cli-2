@@ -52,3 +52,7 @@ button {
     box-shadow: -6px -6px 14px;
     cursor: crosshair;
 }
+
+.equalBtn {
+    background-color: black;
+}
