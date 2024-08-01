@@ -50,9 +50,9 @@ button {
     font-size: 21px;    
     background-color: azure;
     box-shadow: -6px -6px 14px;
-    cursor: crosshair;
+    cursor: pointer;
 }
 
 .equalBtn {
-    background-color: black;
+    background-color: orangered;
 }
