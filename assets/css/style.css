@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #f2c40f;
+    background-image: url(../images/numbers2.jpg);
 }
 
 .calculator {
@@ -55,4 +55,8 @@ button {
 
 .equalBtn {
     background-color: orangered;
+}
+
+.container {
+    text-align: center;
 }
