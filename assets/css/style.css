@@ -79,3 +79,23 @@ button {
 /* color-hex source ideas for color hover transitions */
 
 /* media query */
+@media screen and (max-width: 430px) {
+    .container {
+        display: flex;
+    }
+
+    .fade {
+        background-color: #90eeee;
+        color: black;
+    }
+
+    .fade:hover {
+        background-color: orangered;
+    }
+}
+/* media query */
+@media screen and (max-width: 390px) {
+    .container {
+        display: flex;
+    }
+}
