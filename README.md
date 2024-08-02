@@ -1,6 +1,6 @@
 # JavaScript Calculator
 
-HTML Structure, CSS style, Javascript for functionality
+HTML for Structure, CSS for style and Javascript for functionality
 
 We started our project with HTML for structure. 
 We created a basic  layout for our JavaScript Calculator in the Index.html file.
