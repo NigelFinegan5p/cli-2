@@ -34,3 +34,41 @@ With the addition of and the font family font-family: 'zen dots', amaranth. We s
 
 <br></br>
 <br></br>
+
+## JavaScript Functionality
+
+We labelled the JavaScript file script.js, in which will write the JavaScript code for the calculation of the inputs. We have created declarations and functions for manipulating operations in the calculator.
+
+We approached this using the Document Object Model (DOM) to manipulate elements within the HTML file structure index.html.
+
+Using a document object, the document object represents the owner of all other objects
+
+Using the below declaration we will manage to show input/output for the operations that the end user performs on the calculator. In addition we added another declaration with document.querySelectorAll.
+
+    let input = document.getElementById('inputBox');
+    let buttons = document.querySelectorAll('button');
+    
+This will help to get all the elements based on the value/parameter. According to MDN web docs it is representing a list of the document's elements, that match the specified group of selectors, in this case the pre-selected button and there numerical value as inputs and therefore returning a static not live node list.
+
+If and when we use the value / parameter / return value --- approach with an element name called i.e. (div), it will get all the elements containing div in the current document and will give an attribute value with the help of dot-like (.value) string evaluation with the class value
+
+Each of the received elements from the querySelectorAll will then add the event called “click” , subsequently it will add events, only a number in this case into the innerText and into the calculator display.
+
+    let string = "";
+    let arr = Array.from(buttons);
+    arr.forEach(button => {
+        button.addEventListener('click', (e) => {
+        if (e.target.innerHTML === '=') {
+           string = eval(string);
+           input.value = string;
+           }
+
+For example, if the person using the calculator clicks number 1 on the button display, we have added a click event which is received on the inner Text of the display. It will then concatenate the values and produce the answer on the calculator display.
+
+From another perspective and in other words when the user clicks on the button, the button value will display on the input field. When the equal button (=, +, -, or /) is clicked, the solve () function is called and evaluates the expression, and displays the result on the input text field.
+
+The concatenated string is evaluated and a result is displayed.
+
+This very simplistic JavaScript calculator will perform operations like addition, subtraction, multiplication, and division.
+
+Using the querySelectorAll it will in one event perform all four operations and display a result.
