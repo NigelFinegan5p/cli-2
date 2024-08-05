@@ -11,7 +11,6 @@ This is what I intended to build from our project inception idea is the followin
 Design and appearance of the calculator is clean and simplistic in line with the project objectives and creating a colourful and visually appealing look. The user outline features a bright yellow background, a large display for showing numbers, and large buttons for inputting data and performing calculation. Additionally, I have incorporated simple animations of a color change when hovering over the buttons for an enhanced user experience on the main (AC) and equals button.
 
 <br></br>
-<br></br>
 
 ## Design & Wireframe
 <p></p>
@@ -19,6 +18,7 @@ Design and appearance of the calculator is clean and simplistic in line with the
 <br></br>
 [Wireframe2](https://github.com/NigelFinegan5p/project-2/blob/main/docs/wireframe/wireframe2..jpg)
 <p></p>
+<br></br>
 
 ## HTML for Structure
 HTML for Structure, CSS for style and Javascript for functionality
