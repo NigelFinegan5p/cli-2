@@ -90,7 +90,8 @@ Using the querySelectorAll it will in one event perform all four operations and 
 In working through the JavaScript course modules and understanding conditional statements and there practical uses I wanted to get a better understanding of control flow, decision making structures and and how to structure them for practical solutions and to work through this project to grasp their usage effectively.
 
 In MDN web docs they articulate Control flow as the order in which the computer executes statements in a script. Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequently) structures & sub structures that change the control flow, such as conditionals and loops.
+In essence the control flow is fluid; the only times it is disrupted are when the statements change flow and test for validity. 
 <p></p>
 [MDN Web Docs Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
-
+[CI - Control Flow in Javascript](https://codeinstitute.net/global/blog/control-flow-in-javascript/)
 <br></br>
