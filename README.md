@@ -1,5 +1,9 @@
 # JavaScript Calculator
 <br></br>
+![Calculator Screenshot](https://github.com/NigelFinegan5p/project-2/blob/main/docs/wireframe/screenshot1..jpg)
+
+<br></br>
+
 ## Introduction & Project objectives
 
 This is what I intended to build from our project inception idea is the following JavaScript calculator. My simple calculator will be able to perform the primary arithmetic operations, such as (addition, subtraction, multiplication and division) additionally and also on numbers containing decimal points. The calculator Functionality building blocks are from JavaScript, DOM model manipulation and (else if) statements allowing basic functions for performing the arithmetic operations. The structure comes from HTML and the style from CSS.
