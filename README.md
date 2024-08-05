@@ -14,9 +14,11 @@ Design and appearance of the calculator is clean and simplistic in line with the
 
 ## Design & Wireframe
 <p></p>
+
 ![Wireframe1](https://github.com/NigelFinegan5p/project-2/blob/main/docs/wireframe/wireframe1..jpg)
 <br></br>
-[Wireframe2](https://github.com/NigelFinegan5p/project-2/blob/main/docs/wireframe/wireframe2..jpg)
+
+![Wireframe2](https://github.com/NigelFinegan5p/project-2/blob/main/docs/wireframe/wireframe2..jpg)
 <p></p>
 <br></br>
 
