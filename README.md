@@ -1,4 +1,5 @@
 # JavaScript Calculator
+<br></br>
 ## Introduction & Project objectives
 
 This is what I intended to build from our project inception idea is the following JavaScript calculator. My simple calculator will be able to perform the primary arithmetic operations, such as (addition, subtraction, multiplication and division) additionally and also on numbers containing decimal points. The calculator Functionality building blocks are from JavaScript, DOM model manipulation and (else if) statements allowing basic functions for performing the arithmetic operations. The structure comes from HTML and the style from CSS.
@@ -81,3 +82,14 @@ The concatenated string is evaluated and a result is displayed.
 This very simplistic JavaScript calculator will perform operations like addition, subtraction, multiplication, and division.
 
 Using the querySelectorAll it will in one event perform all four operations and display a result.
+
+<br></br>
+
+***Control Flow & Else If***
+
+In working through the JavaScript course modules and understanding conditional statements and there practical uses I wanted to get a better understanding of control flow, decision making structures and and how to structure them for practical solutions and to work through this project to grasp their usage effectively.
+
+In MDN web docs they articulate Control flow as the order in which the computer executes statements in a script. Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequently) structures & sub structures that change the control flow, such as conditionals and loops.
+[MDN Web Docs Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+
+<br></br>
