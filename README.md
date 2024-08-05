@@ -1,5 +1,14 @@
 # JavaScript Calculator
+## Introduction & Project objectives
 
+This is what I intended to build from our project inception idea is the following JavaScript calculator. My simple calculator will be able to perform the primary arithmetic operations, such as (addition, subtraction, multiplication and division) additionally and also on numbers containing decimal points. The calculator Functionality building blocks are from JavaScript, DOM model manipulation and (else if) statements allowing basic functions for performing the arithmetic operations. The structure comes from HTML and the style from CSS.
+
+Design and appearance of the calculator is clean and simplistic in line with the project objectives and creating a colourful and visually appealing look. The user outline features a bright yellow background, a large display for showing numbers, and large buttons for inputting data and performing calculation. Additionally, I have incorporated simple animations of a color change when hovering over the buttons for an enhanced user experience on the main (AC) and equals button.
+
+<br></br>
+<br></br>
+
+## HTML for Structure
 HTML for Structure, CSS for style and Javascript for functionality
 
 We started our project with HTML for structure. 
