@@ -13,6 +13,13 @@ Design and appearance of the calculator is clean and simplistic in line with the
 <br></br>
 <br></br>
 
+## Design & Wireframe
+<p></p>
+![Wireframe1](https://github.com/NigelFinegan5p/project-2/blob/main/docs/wireframe/wireframe1..jpg)
+<br></br>
+[Wireframe2](https://github.com/NigelFinegan5p/project-2/blob/main/docs/wireframe/wireframe2..jpg)
+<p></p>
+
 ## HTML for Structure
 HTML for Structure, CSS for style and Javascript for functionality
 
