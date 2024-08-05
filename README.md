@@ -93,5 +93,6 @@ In MDN web docs they articulate Control flow as the order in which the computer 
 In essence the control flow is fluid; the only times it is disrupted are when the statements change flow and test for validity. 
 <p></p>
 [MDN Web Docs Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+<p></P>
 [CI - Control Flow in Javascript](https://codeinstitute.net/global/blog/control-flow-in-javascript/)
 <br></br>
