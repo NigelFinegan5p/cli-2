@@ -139,12 +139,27 @@ In essence the control flow is fluid; the only times it is disrupted are when th
 
 ![HTML](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/validation.html.jpg)
 <br></br>
+<br></br>
 
 ![CSS](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/validation.css.jpg)
+<br></br>
 <br></br>
 
 ![JS Hint](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/validation.js.jpg)
 <br></br>
 <br></br>
+
+
+## Deployment
+
+To deploy my project 2 JS calculator the following steps were taken:
+
+1.  Clicked on  `Settings`  on the navigation menu in the GitHub repository
+2.  Selected the  `Pages`  menu on the left hand side bar.
+3.  In the first dropdown menu labeled  `Source`  I selected the branch of the name  `main`  from the dropdown.
+4.  In the next icon from left to right in the dropdown labeled  `/root`  and selected this.
+5.  Next step was to select Save
+6.  At the top of the page the live site link is available to open in a new window
+
 
 
