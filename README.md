@@ -161,5 +161,37 @@ To deploy my project 2 JS calculator the following steps were taken:
 5.  Next step was to select Save
 6.  At the top of the page the live site link is available to open in a new window
 
+<br></br>
+<br></br>
+
+
+## Bibliography & Sources
+
+https://eloquentjavascript.net/Eloquent_JavaScript.pdf
+
+https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Definitive-Guide-6th-Edition.pdf
+
+<br></br>
+
+https://stakedesigner.com/how-to-create-a-javascript-calculator/
+
+https://github.com/CodeTraversal/JavaScript-Projects/blob/main/Calculator/style.css
+
+https://www.youtube.com/watch?app=desktop&v=LX8_z1nvqk4
+
+https://plainenglish.io/community/how-to-build-a-calculator-using-javascript
+
+https://www.javaguides.net/2024/03/javascript-calculator-project.html
+
+https://www.w3schools.com/css/css_grid.asp
+
+https://www.makeuseof.com/build-a-simple-calculator-using-html-css-javascript/
+
+https://medium.com/@sharathchandark/how-to-create-a-calculator-using-html-css-javascript-simple-calculator-in-javascript-f88c264de03a
+
+https://www.wscubetech.com/blog/javascript-calculator/
+
+https://www.educative.io/answers/how-to-build-a-calculator-in-javascript
+
 
 
