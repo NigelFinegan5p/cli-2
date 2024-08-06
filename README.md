@@ -173,7 +173,7 @@ https://eloquentjavascript.net/Eloquent_JavaScript.pdf
 JavaScript: The Definitive Guide, 7th Edition David Flanagan<p></p>
 https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Definitive-Guide-6th-Edition.pdf
 
-JavaScript Elightenment <p></p>
+JavaScript Elightenment, Cody Lindley <p></p>
 http://ijevanlib.ysu.am/wp-content/uploads/2017/12/JavaScript_Enlightenment.pdf
 
 <br></br>
