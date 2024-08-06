@@ -177,26 +177,45 @@ JavaScript Elightenment, Cody Lindley <p></p>
 http://ijevanlib.ysu.am/wp-content/uploads/2017/12/JavaScript_Enlightenment.pdf
 
 <br></br>
+<br></br>
 
-https://stakedesigner.com/how-to-create-a-javascript-calculator/
+***Sources***
 
-https://github.com/CodeTraversal/JavaScript-Projects/blob/main/Calculator/style.css
+How to create a JavaScript Calculator Using HTML, CSS, and JavaScript <p></p>
+[https://stakedesigner.com/how-to-create-a-javascript-calculator/](https://stakedesigner.com/how-to-create-a-javascript-calculator/)
 
-https://www.youtube.com/watch?app=desktop&v=LX8_z1nvqk4
+CodeTraversal / JavaScript <p></p>
+[https://github.com/CodeTraversal/JavaScript-Projects/blob/main/Calculator/style.css](https://github.com/CodeTraversal/JavaScript-Projects/blob/main/Calculator/style.css)
 
-https://plainenglish.io/community/how-to-build-a-calculator-using-javascript
+How to make a Calculator using HTML CSS JavaScript <p></p>
+[https://www.youtube.com/watch?app=desktop&v=LX8_z1nvqk4](https://www.youtube.com/watch?app=desktop&v=LX8_z1nvqk4)
 
-https://www.javaguides.net/2024/03/javascript-calculator-project.html
+How to Build a Calculator Using JavaScript: A Step-by-Step Guide <p></p>
+[https://plainenglish.io/community/how-to-build-a-calculator-using-javascript](https://plainenglish.io/community/how-to-build-a-calculator-using-javascript)
 
-https://www.w3schools.com/css/css_grid.asp
+Calculator by using HTML, CSS, and JavaScript <p></p>
+[https://www.javaguides.net/2024/03/javascript-calculator-project.html](https://www.javaguides.net/2024/03/javascript-calculator-project.html)
 
-https://www.makeuseof.com/build-a-simple-calculator-using-html-css-javascript/
 
-https://medium.com/@sharathchandark/how-to-create-a-calculator-using-html-css-javascript-simple-calculator-in-javascript-f88c264de03a
+CSS Grid Layout Module <p></p>
+[https://www.w3schools.com/css/css_grid.asp](https://www.w3schools.com/css/css_grid.asp)
 
-https://www.wscubetech.com/blog/javascript-calculator/
 
-https://www.educative.io/answers/how-to-build-a-calculator-in-javascript
+How to Build a Simple Calculator Using HTML, CSS, and JavaScript <p></p>
+[https://www.makeuseof.com/build-a-simple-calculator-using-html-css-javascript/](https://www.makeuseof.com/build-a-simple-calculator-using-html-css-javascript/)
+
+
+How To Create a Calculator Using HTML CSS & JavaScript | Simple Calculator in JavaScript <p></p>
+[https://medium.com/@sharathchandark/how-to-create-a-calculator-using-html-css-javascript-simple-calculator-in-javascript-f88c264de03a](https://medium.com/@sharathchandark/how-to-create-a-calculator-using-html-css-javascript-simple-calculator-in-javascript-f88c264de03a)
+
+
+JavaScript Simple Calculator Program (4 Ways With Code) <p></p>
+[https://www.wscubetech.com/blog/javascript-calculator/](https://www.wscubetech.com/blog/javascript-calculator/)
+
+How to build a calculator in JavaScript <p></p>
+[https://www.educative.io/answers/how-to-build-a-calculator-in-javascript](https://www.educative.io/answers/how-to-build-a-calculator-in-javascript)
+
+
 
 
 
