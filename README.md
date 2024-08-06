@@ -108,3 +108,12 @@ In essence the control flow is fluid; the only times it is disrupted are when th
 [MDN Web Docs Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)<p></P>
 [CI - Control Flow in Javascript](https://codeinstitute.net/global/blog/control-flow-in-javascript/)
 <br></br>
+
+## Fonts
+
+![font](https://github.com/NigelFinegan5p/project-2/blob/main/docs/screenshots/fonts.jpg)
+<p></p>
+
+![font](https://github.com/NigelFinegan5p/project-2/blob/main/docs/screenshots/fonts2.jpg)
+
+<br></br>
