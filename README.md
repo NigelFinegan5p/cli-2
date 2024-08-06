@@ -121,7 +121,8 @@ We selected the following fonts for this project.
 ![font](https://github.com/NigelFinegan5p/project-2/blob/main/docs/screenshots/fonts2.jpg)
 
 <br></br>
-<br></br>
+
+
 
 ## Lighthouse Testing
 
@@ -165,6 +166,18 @@ To deploy my project 2 JS calculator the following steps were taken:
 4.  In the next icon from left to right in the dropdown labeled  `/root`  and selected this.
 5.  Next step was to select Save
 6.  At the top of the page the live site link is available to open in a new window
+
+<br></br>
+<br></br>
+
+## Bugs, Errors & Fixes
+Using the W3C CSS validator it shows up one error. 
+
+> Sorry!We found the following errors (1)
+Value Error : padding  `-3px`  negative values are not allowed :  -3px
+
+After having run the CSS validator and picked up this error i changed the value in the style.css file and the border moved to close to the edge of the window.
+For this reason i left the error in place. 
 
 <br></br>
 <br></br>
