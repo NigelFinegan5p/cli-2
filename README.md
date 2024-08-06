@@ -133,3 +133,18 @@ In essence the control flow is fluid; the only times it is disrupted are when th
 
 ![lighthouse seo](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/lighthouse.seo.jpg)
 <br></br>
+<br></br>
+
+## HTML, CSS & JS Validation
+
+![HTML](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/validation.html.jpg)
+<br></br>
+
+![CSS](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/validation.css.jpg)
+<br></br>
+
+![JS Hint](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/validation.js.jpg)
+<br></br>
+<br></br>
+
+
