@@ -6,9 +6,9 @@
 
 ## Introduction & Project objectives
 
-This is what I intended to build from our project inception idea is the following JavaScript calculator. My simple calculator will be able to perform the primary arithmetic operations, such as (addition, subtraction, multiplication and division) additionally and also on numbers containing decimal points. The calculator Functionality building blocks are from JavaScript, DOM model manipulation and (else if) statements allowing basic functions for performing the arithmetic operations. The structure comes from HTML and the style from CSS.
+This is what I intended to build from our project idea, is the following JavaScript calculator. My simple calculator will be able to perform the primary arithmetic operations, such as (addition, subtraction, multiplication and division) additionally and also on numbers containing decimal points. The calculator Functionality building blocks are from JavaScript, DOM model manipulation and (else if) statements allowing basic functions for performing the arithmetic operations. The structure comes from HTML and the style from CSS.
 
-Design and appearance of the calculator is clean and simplistic in line with the project objectives and creating a colourful and visually appealing look. The user outline features a bright yellow background, a large display for showing numbers, and large buttons for inputting data and performing calculation. Additionally, I have incorporated simple animations of a color change when hovering over the buttons for an enhanced user experience on the main (AC) and equals button.
+Design and appearance of the calculator is clean and simplistic in line with the project objectives and creating a colourful and visually appealing look. The outline features a bright yellow background, a large display for showing numbers, and large buttons for inputting data and performing calculations. Additionally, I have incorporated simple animations of a color change when hovering over the buttons for an enhanced user experience on the main (AC) and equals button.
 
 <br></br>
 
@@ -51,16 +51,16 @@ To make our calculator visually appealing, we approached this by applying differ
 
 To enhance the visual appeal of our calculator project with CSS. We applied styles to the buttons, display screen, and overall layout to make it user-friendly and appealing.
 
-As the project has numbers theme we kept the background image in alignment with the theme the website.
+As the project has a numbers theme we kept the background image in alignment with the theme the website.
 
-With the addition of and the font family font-family: 'zen dots', amaranth. We set the background color to the entire body with styles to the container too. Using the color #f2c40f.
+With the addition of the font-family: 'zen dots', amaranth, we set the background color to the entire body with styles to the container too. Using the color #f2c40f.
 
 <br></br>
 <br></br>
 
 ## JavaScript Functionality
 
-We labelled the JavaScript file script.js, in which will write the JavaScript code for the calculation of the inputs. We have created declarations and functions for manipulating operations in the calculator.
+We labelled the JavaScript file script.js, in which we wrote the JavaScript code for the calculation of the inputs. We have created declarations and functions for manipulating operations in the calculator.
 
 We approached this using the Document Object Model (DOM) to manipulate elements within the HTML file structure index.html.
 
@@ -112,6 +112,8 @@ In essence the control flow is fluid; the only times it is disrupted are when th
 
 ## Fonts
 
+We selected the following fonts for this project.
+
 ![font](https://github.com/NigelFinegan5p/project-2/blob/main/docs/screenshots/fonts.jpg)
 
 <p></p>
@@ -122,6 +124,9 @@ In essence the control flow is fluid; the only times it is disrupted are when th
 <br></br>
 
 ## Lighthouse Testing
+
+Lighthouse testing was used. Lighthouse the automated website analysis tool that tests your website and assigns it a score across four different categories: Performance. Accessibility. Best Practices & SEO. Results are below: <p></p>
+
 ![lighthouse test](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/lighthouse.test.jpg)
 <br></br>
 
