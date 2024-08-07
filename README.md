@@ -177,7 +177,7 @@ Lighthouse testing was used. Lighthouse is the Chrome automated website analysis
 <br></br>
 <br></br>
 
-![CSS](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/validation.css.jpg)
+![CSS](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/css.validation.jpg)
 <br></br>
 <br></br>
 
@@ -209,8 +209,7 @@ Using the W3C CSS validator it shows up one error.
 > Sorry!We found the following errors (1)
 Value Error : padding  `-3px`  negative values are not allowed :  -3px
 
-After having run the CSS validator and picked up this error i changed the value in the style.css file and the border moved to close to the edge of the window.
-For this reason i left the error in place. 
+After having run the CSS validator and picked up this error i changed the value in the style.css file and subsequent error has been removed. 
 
 <br></br>
 <br></br>
