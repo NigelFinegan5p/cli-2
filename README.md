@@ -4,8 +4,30 @@
 
 <br></br>
 
+[Live Website](https://nigelfinegan5p.github.io/project-2/)
+
+[Live Repository](https://github.com/NigelFinegan5p/project-2)
+<p></p>
+
+## Table of Contents
+1. [Introduction & Project objectives](#introduction)
+2. [Design & Wireframe](#design)
+3. [HTML for Structure](#html)
+4. [CSS Styling](#css)
+5. [JavaScript Functionality](#javascript)
+6. [Fonts](#fonts)
+7. [Lighthouse Testing](#lighthouse)
+8. [HTML, CSS & JS Validation](#validation)
+9. [Deployment](#deployment)
+10. [Bugs, Errors & Fixes](#bugs)
+11. [Bibliography & Sources](#sources)
+
+
+
+
 ## Introduction & Project objectives
 
+<a name="introduction"></a>
 This is what I intended to build from our project idea, is the following JavaScript calculator. My simple calculator will be able to perform the primary arithmetic operations, such as (addition, subtraction, multiplication and division) additionally and also on numbers containing decimal points. The calculator Functionality building blocks are from JavaScript, DOM model manipulation and (else if) statements allowing basic functions for performing the arithmetic operations. The structure comes from HTML and the style from CSS.
 
 Design and appearance of the calculator is clean and simplistic in line with the project objectives and creating a colourful and visually appealing look. The outline features a bright yellow background, a large display for showing numbers, and large buttons for inputting data and performing calculations. Additionally, I have incorporated simple animations of a color change when hovering over the buttons for an enhanced user experience on the main (AC) and equals button.
@@ -14,6 +36,7 @@ Design and appearance of the calculator is clean and simplistic in line with the
 
 ## Design & Wireframe
 <p></p>
+<a name="design"></a>
 
 ![Wireframe1](https://github.com/NigelFinegan5p/project-2/blob/main/docs/wireframe/wireframe1..jpg)
 <br></br>
@@ -23,6 +46,7 @@ Design and appearance of the calculator is clean and simplistic in line with the
 <br></br>
 
 ## HTML for Structure
+<a name="html"></a>
 HTML for Structure, CSS for style and Javascript for functionality
 
 We started our project with HTML for structure. 
@@ -46,6 +70,7 @@ The rest of the calculator buttons are encased inside a number of other `<div>.`
 <br></br>
 
 ## CSS Styling
+<a name="css"></a>
 
 To make our calculator visually appealing, we approached this by applying different CSS styles and effects.
 
@@ -59,6 +84,7 @@ With the addition of the font-family: 'zen dots', amaranth, we set the backgroun
 <br></br>
 
 ## JavaScript Functionality
+<a name="javascript"></a>
 
 We labelled the JavaScript file script.js, in which we wrote the JavaScript code for the calculation of the inputs. We have created declarations and functions for manipulating operations in the calculator.
 
@@ -111,6 +137,7 @@ In essence the control flow is fluid; the only times it is disrupted are when th
 <br></br>
 
 ## Fonts
+<a name="fonts"></a>
 
 We selected the following fonts for this project.
 
@@ -125,6 +152,7 @@ We selected the following fonts for this project.
 
 
 ## Lighthouse Testing
+<a name="lighthouse"></a>
 
 Lighthouse testing was used. Lighthouse the automated website analysis tool that tests your website and assigns it a score across four different categories: Performance. Accessibility. Best Practices & SEO. Results are below: <p></p>
 
@@ -143,6 +171,8 @@ Lighthouse testing was used. Lighthouse the automated website analysis tool that
 
 ## HTML, CSS & JS Validation
 
+<a name="validation"></a>
+
 ![HTML](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/validation.html.jpg)
 <br></br>
 <br></br>
@@ -158,6 +188,8 @@ Lighthouse testing was used. Lighthouse the automated website analysis tool that
 
 ## Deployment
 
+<a name="deployment"></a>
+
 To deploy my project 2 JS calculator the following steps were taken:
 
 1.  Clicked on  `Settings`  on the navigation menu in the GitHub repository
@@ -171,6 +203,7 @@ To deploy my project 2 JS calculator the following steps were taken:
 <br></br>
 
 ## Bugs, Errors & Fixes
+<a name="bugs"></a>
 Using the W3C CSS validator it shows up one error. 
 
 > Sorry!We found the following errors (1)
@@ -184,6 +217,7 @@ For this reason i left the error in place.
 
 
 ## Bibliography & Sources
+<a name="sources"></a>
 
 Eloquent JavaScript, 4th edition, Marijn Haverbeke <p></p>
 https://eloquentjavascript.net/Eloquent_JavaScript.pdf
