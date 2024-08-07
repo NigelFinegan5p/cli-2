@@ -154,7 +154,7 @@ We selected the following fonts for this project.
 ## Lighthouse Testing
 <a name="lighthouse"></a>
 
-Lighthouse testing was used. Lighthouse the automated website analysis tool that tests your website and assigns it a score across four different categories: Performance. Accessibility. Best Practices & SEO. Results are below: <p></p>
+Lighthouse testing was used. Lighthouse is the Chrome automated website analysis tool that tests your website and assigns it a score across four different categories: Performance. Accessibility. Best Practices & SEO. The results are below: <p></p>
 
 ![lighthouse test](https://github.com/NigelFinegan5p/project-2/blob/main/docs/validation/lighthouse.test.jpg)
 <br></br>
