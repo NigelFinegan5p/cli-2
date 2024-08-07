@@ -7,7 +7,7 @@
 [Live Website](https://nigelfinegan5p.github.io/project-2/)
 
 [Live Repository](https://github.com/NigelFinegan5p/project-2)
-<p></p>
+<br></br>
 
 ## Table of Contents
 1. [Introduction & Project objectives](#introduction)
@@ -23,7 +23,7 @@
 11. [Bibliography & Sources](#sources)
 
 
-
+<br></br>
 
 ## Introduction & Project objectives
 
