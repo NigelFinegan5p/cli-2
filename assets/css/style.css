@@ -93,6 +93,7 @@ button {
         background-color: orangered;
     }
 }
+
 /* media query */
 @media screen and (max-width: 390px) {
     .container {
